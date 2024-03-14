@@ -7,6 +7,5 @@
 </head>
 <body>
     <h1>O Dinheiro Vai Cair, Tenha Calma!!!</h1>
-    <p>Esta é uma página simples com a frase "O dinheiro vai cair, tenha calma!!!"</p>
 </body>
 </html>
